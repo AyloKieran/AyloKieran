@@ -1,5 +1,3 @@
-![Kieran Noble](https://github.com/aylokieran/aylokieran/blob/main/banner.png) 
-
 <div align="center">
 
 ### Hello! Im Kieran. 👋	
