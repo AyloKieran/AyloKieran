@@ -1,8 +1,4 @@
-<div align="center">
+## Howdy, I'm Kieran 🙋‍♂️
 
-### Hello! Im Kieran. 👋	
-
-![Github Stats Overview](https://github.com/aylokieran/github-stats/blob/master/generated/overview.svg?raw=true) 
-![Github Stats Overview](https://github.com/aylokieran/github-stats/blob/master/generated/languages.svg?raw=true)
-
-</div>
+I'm an aspiring and enthusiastic full stack web experience developer currently in my final year of university 🎓  
+I'm working on increasing my knowledge in web and internet technologies and development 👨‍💻
