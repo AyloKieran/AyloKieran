@@ -2,10 +2,9 @@
 
 ### About Me
 
-- 🎓 I'm a Student @ **[Staffordshire University](https://staffs.ac.uk/)**.
 - 💼 I'm a Software Developer @ **[Pinewood Technologies](https://www.pinewood.co.uk/)**.
 - 😁 Pronouns: **he/him/his**.
-- 🎯 I'm currently trying to expand my knowlege in **React** apps on a commercial scale.
+- 🎯 I'm currently learning to expand my knowlege in **React** apps on a commercial scale.
 - 🏓 One of my favourite hobbies at the moment is **film photography**.
 
 ### Projects
